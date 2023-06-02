@@ -2,7 +2,7 @@ import axios from "axios";
 import { useEffect, useState } from "react";
 
 // limit, if 429 wait for 15 min and try again
-const url = "https://course-api.com/react-store-productss";
+const url = "https://course-api.com/react-store-products";
 
 const FirstRequest = () => {
   const fetchData = async () => {

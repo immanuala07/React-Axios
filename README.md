@@ -4,6 +4,10 @@ Learn React-Axios
 #### Docs
 
 [Axios Docs](https://axios-http.com/docs/intro)
+[Axios Tutorials](https://masteringjs.io/axios)
+[Axios Cheatsheet](https://kapeli.com/cheat_sheets/Axios.docset/Contents/Resources/Documents/index)
+[Axios Simple Cheatsheet](https://simplecheatsheet.com/tag/axios-cheat-sheet/)
+[Axios Github](https://github.com/axios/axios)
 
 #### Install
 
